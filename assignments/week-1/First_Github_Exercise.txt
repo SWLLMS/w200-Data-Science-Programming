@@ -1,0 +1,11 @@
+GitHub Exercise
+
+This is a simple exercise designed to give you practice using GitHub. Additionally the following questions are meant to stimulate you to think about how innovation arises and propagates. Type your answers and commit them to your repository as outlined in the “Completing Your First Exercise With Git Reading Card” document. Be ready to share these answers <briefly> in the discussion section.
+
+* Bill Gates or Gary Kidall? Thomas Edison or Nicola Tesla? Rosalind Franklin or Watson and Crick? Steve(Jobs or Wozniak)?
+
+Answer: Gates, Tesla, Watson and Crick, Wozniak.
+
+* How might modern data science be disruptive to your industry? 
+
+Answer: In the legal community there are so many processes and procedures that could greatly benefit from data science in a number of ways from predicting what changes need to be made based to filed documents for acceptance by the courts to the likelihood of a case reaching a successful outcome based on past cases before a specific court, judge or argued by a specific attorney. Ultimately I see a reduction in overhead for the firm as AI and ML can replace the more mundane legal tasks. 

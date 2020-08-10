@@ -1,0 +1,31 @@
+Last login: Sun Jan 12 17:24:35 on ttys003
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Samanthas-MacBook-Air-2:~ swllms$ cd Documents/Berkeley/DS200
+(base) Samanthas-MacBook-Air-2:DS200 swllms$ ls
+Course-Syllabus				Installation
+DATASCI W200 Notes And Tasks.docx	Sam_WilliamsREPO
+DATASCI W200 Readings			assignments_upstream_spring20
+(base) Samanthas-MacBook-Air-2:DS200 swllms$ cd Sam_WilliamsREPO
+(base) Samanthas-MacBook-Air-2:Sam_WilliamsREPO swllms$ mkdir week_01
+(base) Samanthas-MacBook-Air-2:Sam_WilliamsREPO swllms$ cd week_01
+(base) Samanthas-MacBook-Air-2:week_01 swllms$ mkdir s1
+(base) Samanthas-MacBook-Air-2:week_01 swllms$ cd s1
+(base) Samanthas-MacBook-Air-2:s1 swllms$ mkdir s3
+(base) Samanthas-MacBook-Air-2:s1 swllms$ mkdir s2
+(base) Samanthas-MacBook-Air-2:s1 swllms$ cd s2
+(base) Samanthas-MacBook-Air-2:s2 swllms$ mkdir Advanced
+(base) Samanthas-MacBook-Air-2:s2 swllms$ cd Advanced
+(base) Samanthas-MacBook-Air-2:s2 swllms$ echo "A whole new world" > text_chunk1.txt
+(base) Samanthas-MacBook-Air-2:s2 swllms$ echo "A new fantastic point of view" >> text_chunk1.txt
+(base) Samanthas-MacBook-Air-2:s2 swllms$ cd Advanced
+(base) Samanthas-MacBook-Air-2:Advanced swllms$ touch text_chunk2.txt
+(base) Samanthas-MacBook-Air-2:Advanced swllms$ echo "A whole new world" > text_chunk2.txt
+(base) Samanthas-MacBook-Air-2:Advanced swllms$ echo "A fantastic point of view" >> text_chunk2.txt
+(base) Samanthas-MacBook-Air-2:Advanced swllms$ echo "Do you want to build a snowman?" >> text_chunk2.txt
+(base) Samanthas-MacBook-Air-2:Advanced swllms$ cd ..
+(base) Samanthas-MacBook-Air-2:s2 swllms$ cd ..
+(base) Samanthas-MacBook-Air-2:s1 swllms$ cd s3
+(base) Samanthas-MacBook-Air-2:s3 swllms$ echo "I love bash scripting." > conf.txt
